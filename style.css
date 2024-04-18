@@ -1,0 +1,134 @@
+/*1*/
+/*.col-md-6  > h1{
+    background-color: red;
+}
+.col-md-6  h1{
+    background-color: yellow;
+}*/
+
+
+
+
+/*2*/
+/*.d-flex.justify-content-between.mb-2 span{
+    background-color: yellow
+}
+.d-flex.justify-content-between.mb-2 > span{
+    background-color: red;
+}*/
+
+
+
+/*3*/
+/*.font-weight-bold{
+    background-color: green;
+}
+.lead.mb-0>a{
+    background-color: yellow;
+}*/
+
+
+
+/*4*/
+/*.pb-4.mb-4.font-italic.border-bottom + div{
+    background-color: brown;
+}*/
+/*.blog-post:nth-child(2){
+    background-color: blueviolet;
+}*/
+
+
+
+
+
+/*5*/
+/*.blog-post hr{
+    background-color: red;
+}*/
+/*.blog-post p + hr{
+    background-color: red;
+}*/
+
+
+
+/*6*/
+/*nav span:nth-of-type(odd){
+    background-color: aquamarine;
+}*/
+/*.d-flex.justify-content-between.mb-2 span:nth-child(odd){
+background-color: brown;
+}*/
+
+
+/*7*/
+/*ol.list-unstyled.mb-0 li a {
+    background-color: blue;
+}*/
+
+
+/*8*/
+/*.container .blog-post:nth-of-type(2) .blog-post-meta a{
+    background-color: aquamarine;
+}*/
+    
+
+  
+/*9*/
+/*.blog-post:nth-of-type(3) ul li:nth-child(2){
+    background-color: green;
+}*/
+/*.blog-post:last-of-type ul li:nth-child(2){
+    background-color: aquamarine;
+}*/
+
+
+
+
+/*10*/
+/*footer+a{
+    background-color: aquamarine;
+}*/
+
+
+
+/*11*/
+/*.blog-pagination a:last-child{
+    background-color: aquamarine;
+}*/
+/*nav:last-of-type a:last-of-type{
+    background-color: black
+}*/
+
+
+
+/*12*/
+/*footer p a:last-child{
+    background-color: blueviolet;
+}*/
+/*footer a+a{
+    background-color: blue;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~
+
